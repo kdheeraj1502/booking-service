@@ -1,0 +1,13 @@
+package com.cab.bookings;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CabBookingsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CabBookingsApplication.class, args);
+	}
+
+}
