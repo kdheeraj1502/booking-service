@@ -1,7 +1,5 @@
 package com.cab.bookings.model;
 
-import org.springframework.stereotype.Component;
-
 import lombok.Data;
 
 @Data

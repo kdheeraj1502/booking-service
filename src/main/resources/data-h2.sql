@@ -1,0 +1,1 @@
+INSERT INTO DRIVER (name, email, phone, license, carnumber, longitude, latitude) VALUES ('Dheeraj', 'kdheeraj@gmail.com', 9868775894, 'license', 'Mh24JH', 20.5, 50.5);

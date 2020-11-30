@@ -12,12 +12,8 @@ public class ApiResponse {
 
 	String status;
 	String reason;
-
 	String message;
-	
 	List<AvaialbleCabs> cabs;
-	
-	
 
 	public List<AvaialbleCabs> getCabs() {
 		return cabs;
